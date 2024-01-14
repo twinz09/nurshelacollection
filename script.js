@@ -36,7 +36,7 @@ copyButtons.forEach((button, index) => {
     // Mengatur ulang teks tombol lainnya menjadi "Copy" dan mengaktifkannya
     copyButtons.forEach((otherButton, otherIndex) => {
       if (otherIndex !== index) {
-        otherButton.innerText = "Copy";
+        otherButton.innerText = "Salin";
         otherButton.disabled = false;
       }
     });
