@@ -186,7 +186,7 @@ ul.links li a:active {
   align-items: center;
   background-color: #f8f0e5;
   width: 200px;
-  height: 150px;
+  height: 140px;
   padding: 15px;
   border-radius: 10px;
   box-shadow: 0px 0px 20px -7px grey;
@@ -227,7 +227,7 @@ ul.links li a:active {
   text-align: center;
   background-color: #f8f0e5;
   width: 400px;
-  height: 175px;
+  height: 340px;
   border-radius: 0px 0px 10px 10px;
   border: 2px solid #777575;
   display: flex;
@@ -239,7 +239,7 @@ ul.links li a:active {
   flex-direction: column;
   justify-content: space-between;
   width: 400px;
-  height: 40px;
+  height: 45px;
   display: flex;
   text-align: left;
   padding: 0px;
